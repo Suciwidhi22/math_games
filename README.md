@@ -1,4 +1,4 @@
-Gamne Logic
+Game Logic
 
 //if we click on the start/reset 
     //if we are playing
